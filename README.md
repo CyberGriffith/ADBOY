@@ -2,7 +2,8 @@
 
 ### By Anuk Duljaya 🇱🇰
 
-ADBOY is a professional Active Directory enumeration and attack-path analysis tool designed to identify privilege escalation paths in AD environments.
+ADBOY is a pro toofessional Active Directory enumeration and attack-path analysis tool designed to identify privilege escalation paths in AD environments.
+<img width="1477" height="894" alt="banner" src="https://github.com/user-attachments/assets/162a5b55-cbc8-4e1b-815e-f5421909c765" />
 
 ---
 
