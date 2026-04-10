@@ -33,7 +33,7 @@ ADBOY is a pro toofessional Active Directory enumeration and attack-path analysi
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/ADBOY.git
+git clone https://github.com/CyberGriffith/ADBOY.git
 cd ADBOY
 python3 -m venv venv
 source venv/bin/activate
